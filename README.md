@@ -17,7 +17,7 @@ A simple and efficient CRUD (Create, Read, Update, Delete) web application built
 
 🛠️ Tech Stack
 
-    Frontend: HTML, CSS, JavaScript, jQuery
+    Frontend: HTML, CSS, JavaScript, PHP
 
     Backend: [Your backend tech – PHP]
 
